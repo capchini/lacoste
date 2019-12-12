@@ -1,0 +1,1 @@
+import{coverInit as o}from"../framework/components/cover.js";import{staticVideoInit as r}from"../framework/modules/static-video.js";function t(){o(".js-mcontent-strate"),r()}window.criticalReady(t);
